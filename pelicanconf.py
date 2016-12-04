@@ -2,12 +2,19 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+PROFILE_IMAGE_URL='http://colbrydi.github.io/images/Colbry_D.jpg'
+
 AUTHOR = 'Dirk Colbry'
 SITENAME = 'Dirk Colbry'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['blog', 'images']
+ARTICLE_PATHS = ['blog']
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{slug}.html'
 
+THEME= './theme/'
 TIMEZONE = 'EST'
 
 DEFAULT_LANG = 'en'
