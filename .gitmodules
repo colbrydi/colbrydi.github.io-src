@@ -1,6 +1,0 @@
-[submodule "output"]
-	path = output
-	url = https://github.com/colbrydi/colbrydi.github.io.git
-[submodule "plugins/ipynb"]
-	path = plugins/ipynb
-	url = git://github.com/danielfrg/pelican-ipynb.git
