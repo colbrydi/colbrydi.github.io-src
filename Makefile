@@ -66,7 +66,8 @@ html:
 	echo $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	echo "Cleaning Disabled for git repo"
+	#[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
