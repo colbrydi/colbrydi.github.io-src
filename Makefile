@@ -72,11 +72,13 @@ regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
-ifdef PORT
+ifdef PORT	
+	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000  & 
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
-	echo cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	echo cd $(OUTPUTDIR) && echo $(PY) -m pelican.server $(PORT)
 else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000  & 
+	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 	echo cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
 
