@@ -1,6 +1,6 @@
 Title: White Noise and Teaching
 Date: 2018-05-23
-Tags: review, Teaching
+Tags: Product Reviews, Teaching
 
 It can be difficult to be the first student to talk in a quite classroom.  I have been experimenting with the use of white noise to raise the overall din in the room and encourage taking more quickly.
 

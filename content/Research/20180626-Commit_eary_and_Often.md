@@ -1,6 +1,6 @@
 Title: Commit Early and Often
-Date: 2018-06-26
-Tags: Blog, Pelican
+Date: 2018-06-26 12:00
+Tags: Blogging, Pelican
 
 **Ugh! Rookie mistake!**  I just spent all morning working on my website and blog.  I was really happy with the improvements. I was making some modifications to the Makefile in the pelican folder to streamline my workflow when... all of my files disappeared.
 
