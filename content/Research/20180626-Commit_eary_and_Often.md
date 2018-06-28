@@ -13,6 +13,6 @@ Sigh. Now I need to try to go back and remember what I did all morning.
 Lessons relearned:
 
 - Commit early and Often
-- Be respectvul of ```rm -rf *``` epecially when it is in a ```Makefile```
+- Be respectful of ```rm -rf *``` especially when it is in a ```Makefile```
 
 ** Dirk **
