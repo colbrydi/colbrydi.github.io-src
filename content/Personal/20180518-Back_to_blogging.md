@@ -4,11 +4,11 @@ Tags: Lifehacking
 
 I like the idea of blogging but often have difficulty in the delivery.  A few years ago I maintained a blog when I worked for the Institute for Cyber-Enabled Research (iCER) at Michigan State University (MSU). At iCER I did a lot of High Performance Computing (HPC) User support. This involved mostly helping researchers figure out how to use advanced computing systems in their research.  I got into a habit of writing up a blog post when I learned something new or figured out a solution to a practical technical problem.  I also found the blog useful for posting slides and examples from presentations I would often make at workshops and conferences. Many of these old posts are still see a little traffic. Check them out here:
 
-https://wiki.hpcc.msu.edu/display/~colbrydi@msu.edu/Dirk%27s+iCER+wiki+homepage
+[iCER Wiki](//wiki.hpcc.msu.edu/display/~colbrydi@msu.edu/Dirk%27s+iCER+wiki+homepage)
 
 I also did some blogging related to my kids and our "maker" hobby.
 
-http://apprenticemaker.blogspot.com/
+[Maker Wiki](//apprenticemaker.blogspot.com/)
 
 Over the years I moved away from working directly for iCER and have not done a good job keeping up with my maker blog. I am going to try to bring the blogging habit back into my workflow.   I am currently in the middle of quite a few projects relating to education and large scale computing.
 

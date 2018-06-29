@@ -10,10 +10,10 @@ I am interested in purchasing a CNC machine for the shop space in our new house.
 
 During my inicial search I came accross the following systems and communities.
 
-Sienci: https://sienci.com/product/sienci-mill-one-kit/
-DiyLilcnc: http://diylilcnc.org/bigshoulders/
-Shapeoko: carbide3d.com/shapeoko/
-X-Carve: https://www.inventables.com/technologies/x-carve/
-Openbuild community: https://openbuilds.com/?category=cartesian-style-cnc&id=287
+[Sienci](//sienci.com/product/sienci-mill-one-kit/)
+[DiyLilcnc](//diylilcnc.org/bigshoulders/)
+[Shapeoko](//carbide3d.com/shapeoko/)
+[X-Carve](//www.inventables.com/technologies/x-carve/)
+[Openbuild community](//openbuilds.com/?category=cartesian-style-cnc&id=287)
 
-I just stumbled across the "Maslow" (http://www.maslowcnc.com/) and got really excited. The large format capabilities (4'x8') with the really low price ($350) would leave more than enough in my budget to buy two machies.  In fact, I may be able to buy a Maslow and then use it to make the parts I would need another project like the DiyLilcnc (Although I just realized the kickstart for that is relly old 2011).  There are probably other projects.
+I just stumbled across the [Maslow](//www.maslowcnc.com/) and got really excited. The large format capabilities (4'x8') with the really low price ($350) would leave more than enough in my budget to buy two machines.  In fact, I may be able to buy a Maslow and then use it to make the parts I would need another project like the DiyLilcnc (Although I just realized the kickstart for that is relly old 2011).  There are probably other projects.

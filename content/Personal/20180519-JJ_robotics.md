@@ -4,7 +4,7 @@ Tags: Maker, Product Reviews
 
 A great purchase for anyone with a 3D printer and looking for projects With the kids.
 
-About a year ago I stubbled across [JJRobots](https://www.jjrobots.com/) and I just love the idea of this company.  They sell a kit of electronic parts to maker hobbyists with access to 3D printers.   The idea is that you use your 3D printer to make the items and everything you can't print is in the kit provided by JJRobots.  They spend their time developing new products that you can print with the same kit.  For example, the kit I purchased can be used to build the following:
+About a year ago I stubbled across [JJRobots](//www.jjrobots.com/) and I just love the idea of this company.  They sell a kit of electronic parts to maker hobbyists with access to 3D printers.   The idea is that you use your 3D printer to make the items and everything you can't print is in the kit provided by JJRobots.  They spend their time developing new products that you can print with the same kit.  For example, the kit I purchased can be used to build the following:
 
 - Marker board writer
 - Eggbot

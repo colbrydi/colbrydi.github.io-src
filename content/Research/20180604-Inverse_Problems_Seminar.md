@@ -4,7 +4,7 @@ Tags: Presentations, HPC
 
 I was invited to give a talk at the inverse seminars symposium:
 
-[https://inverseproblems2018.org/](https://inverseproblems2018.org/)
+[https://inverseproblems2018.org/](//inverseproblems2018.org/)
 
 At first I was a little nervous since I don't consider myself an expert in inverse problems so I did not fully understand what they wanted me to present. However after talking to the organizers (Kirk and James), I discovered what they wanted was a high level talk and overview of advanced computing. This was something I could do! I put together snippets from a variety of my previous talks. Here is a link to the slides:
 

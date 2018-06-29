@@ -2,7 +2,7 @@ Title: Picking Blog Software
 Date: 2018-05-18
 Tags: Blogging, Product Reviews
 
-When I was at iCER we used confluence for our [blogging software](https://wiki.hpcc.msu.edu/display/~colbrydi@msu.edu/Dirk%27s+iCER+wiki+homepage) and when I did a (personal blog](http://apprenticemaker.blogspot.com/) I used google blogger. On of the barriers for me getting back into blogging (besides my own personal hangups) is that I was never really satisified with either solution.  I wanted to "own" my blog information and didn't really feel comfortable with advertisers making money directly from my content (this is it's own argument).  Here are some criteria for what I was looking for:
+When I was at iCER we used confluence for our [blogging software](//wiki.hpcc.msu.edu/display/~colbrydi@msu.edu/Dirk%27s+iCER+wiki+homepage) and when I did a (personal blog](//apprenticemaker.blogspot.com/) I used google blogger. On of the barriers for me getting back into blogging (besides my own personal hangups) is that I was never really satisified with either solution.  I wanted to "own" my blog information and didn't really feel comfortable with advertisers making money directly from my content (this is it's own argument).  Here are some criteria for what I was looking for:
 
 - Easy to edit/ add new content
 - Easily backed up to my own computer and ported to a different system.

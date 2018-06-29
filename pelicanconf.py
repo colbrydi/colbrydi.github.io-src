@@ -3,17 +3,21 @@
 from __future__ import unicode_literals
 
 AUTHOR = "Dr. Dirk Colbry"
-SITENAME = "Dirk's Blog"
-SITEURL = "http://colbrydi.github.io"
+SITENAME = "Dirk's Home Page"
+#SITEURL = "//colbrydi.github.io"
+SITEURL = "."
 
 PATH = 'content'
+
+INDEX_SAVE_AS = 'Blog.html' 
 
 #PLUGIN_PATHS=["./plugins"]
 #PLUGINS=['ipynb.markup']
 MARKUP = { 'md', 'ipynb', 'html'}
 
+
 # Following items are often useful when publishinu
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "DirkColbry"
 GOOGLE_ANALYTICS = "UA-121560886-1"
 
 TIMEZONE = 'America/Detroit'
@@ -28,8 +32,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('CMSE', 'http://cmse.msu.edu'),
-         ('MSU', 'http://www.msu.edu/'))
+LINKS = (('CMSE', '//cmse.msu.edu'),
+         ('MSU', '//www.msu.edu/'))
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
@@ -43,7 +47,7 @@ RELATIVE_URLS = True
 # Comment following line if you want the default theme
 THEME = 'themes/tuxlite2'
 
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False 
 DISPLAY_CATEGORIES_ON_MENU = True
 
 #INDEX_SAVE_AS = 'about.html'
@@ -51,4 +55,4 @@ DISPLAY_CATEGORIES_ON_MENU = True
 #PAGE_URL = 'about2.html'
 
 # Provides menu items, which come before pages / categories
-#MENUITEMS = [('News','file:///Users/cmse/Desktop/pelican/backupblog/output/category/#news.html')]
+MENUITEMS = [('Blog','/Blog.html'), ('Publications', '/pages/publications.html'), ('Contact', '/pages/contact.html')]
