@@ -12,6 +12,10 @@ PATH = 'content'
 #PLUGINS=['ipynb.markup']
 MARKUP = { 'md', 'ipynb', 'html'}
 
+# Following items are often useful when publishinu
+#DISQUS_SITENAME = ""
+GOOGLE_ANALYTICS = "UA-121560886-1"
+
 TIMEZONE = 'America/Detroit'
 
 DEFAULT_LANG = 'en'
