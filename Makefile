@@ -63,6 +63,7 @@ help:
 	@echo '                                                                          '
 
 html:
+	#cd bibtex2html && python bibtex2html.py colbrydi.bib template.html ../content/Pages/02_publications.html 
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	echo $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
