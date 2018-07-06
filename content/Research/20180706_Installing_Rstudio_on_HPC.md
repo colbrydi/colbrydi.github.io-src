@@ -2,7 +2,7 @@ Title: Installing RStudio on the MSU HPCC
 Date: 2018-07-06
 Tags: HPC
 
-![Rstudio](www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png)
+![Rstudio](//www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png)
 
 These instructions are for installing RStudio on the HPCC. RStudio provides a variety of installers on their website [https://www.rstudio.com/products/rstudio/download2/](https://www.rstudio.com/products/rstudio/download2/). However, the HPCC uses an older version of Linux and the precompiled binaries are not compatible.  Trying to install RStudio from the source code is an option but is also difficult due to the large numbers of libraries and compile dependancies.  I basically gave up trying to install RStudio on until I realized that a version is included as an option in Anaconda.  The following instructions show how to install RStudio using Anaconda.
 
