@@ -1,6 +1,5 @@
 #! /usr/bin/env python2
 
-
 """
 Copyright (C) 2009-2015 Gustavo de Oliveira. Licensed under the GPL (see the
 license file).
@@ -134,14 +133,12 @@ for s in biblist:
             flag = 1
         elif s[i] == '}':
             number -= 1
-
         if number == 0 and flag == 1:
             keylist.append(s[:i+1])
             s = s[i+1:]
             flag = 0
             i = 0
             continue
-
         i += 1
 
     keylist = [t.strip(' ,\t\n') for t in keylist]
@@ -182,14 +179,13 @@ newer = years[-1]
 ###########################################################################
 # Set the fields to be exported to html (following this order)
 mandatory = ['author', 'title']
-optional = ['journal', 'eprint', 'volume', 'pages', 'year', 'url', 'doi']
+optional = ['journal', 'booktitle', 'eprint', 'volume', 'pages', 'year', 'url', 'doi']
 ###########################################################################
 
 # Clean up data
 for i in range(len(dictlist)):
     dictlist[i]['author'] = cleanup_author(dictlist[i]['author'])
     dictlist[i]['title'] = cleanup_title(dictlist[i]['title'])
-
 
 # Write down the list html code
 counter = 0
@@ -205,6 +201,9 @@ for y in reversed(range(older, newer + 1)):
                 for t in optional:
                     if t in d:
                         if t == 'journal': html += ', {0}'.format(d[t])
+                        if t == 'booktitle': 
+                                d[t] = cleanup_title(d[t])
+                                html += ', {0}'.format(d[t])
                         if t == 'eprint': html += ':{0}'.format(d[t])
                         if t == 'volume': html += ' <b>{0}</b>'.format(d[t])
                         if t == 'pages': 
@@ -214,11 +213,9 @@ for y in reversed(range(older, newer + 1)):
                         if t == 'url': 
                             html += ' <a href="{0}">[html]</a>'.format(d[t])
                         if t == 'doi': 
-                            html += ' <a href="{0}">[doi]</a>'.format(d[t])
-
+                            html += ' <a href="//doi.org/{0}">[doi]</a>'.format(d[t])
                 html += '</li>\n'
                 counter += 1
-
         html += '</ul>\n'
 
 
