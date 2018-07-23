@@ -6,15 +6,12 @@ AUTHOR = "Dr. Dirk Colbry"
 SITENAME = "Dirk's Home Page"
 #SITEURL = "//colbrydi.github.io"
 SITEURL = "."
-
 PATH = 'content'
-
 INDEX_SAVE_AS = 'Blog.html' 
 
 #PLUGIN_PATHS=["./plugins"]
 #PLUGINS=['ipynb.markup']
 MARKUP = { 'md', 'ipynb', 'html'}
-
 
 # Following items are often useful when publishinu
 DISQUS_SITENAME = "DirkColbry"
@@ -32,7 +29,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('CMSE', '//cmse.msu.edu'),
+LINKS = (('CyberAmbassadors', '//colbrydi.github.io/cyberambassadors/'),
+         ('Pelican / Github.io Tutorial', '//colbrydi.github.io/msupelican/'),
+	 ('CMSE', '//cmse.msu.edu'),
          ('MSU', '//www.msu.edu/'))
 
 # Social widget

@@ -113,20 +113,17 @@ biblist = data.split('@')
 # Discard empty strings from the list
 biblist = [s for s in biblist if s != '']
 
-
 # Create a list of lists containing the strings "key = value" of each bibitem
 listlist = []
 for s in biblist:
+    #print('here',s)
     type, sep, s = s.partition('{')
     id, sep, s = s.partition(',')
     s = s.rpartition('}')[0]
     keylist = ['type = ' + type.lower(), 'id = ' + id]
-
     number = 0
     flag = 0
     i = 0
-    print(s)
-    print('  ')
     while len(s) > 0:
         if s[i] == '{':
             number += 1
@@ -140,10 +137,9 @@ for s in biblist:
             i = 0
             continue
         i += 1
-
     keylist = [t.strip(' ,\t\n') for t in keylist]
+    print("keylist",keylist)
     listlist.append(keylist)
- 
 
 # Create a list of dicts containing key : value of each bibitem
 dictlist = []
@@ -155,7 +151,6 @@ for l in listlist:
         key = key.lower()
         value = value.strip(' ,\n\t{}')
         keydict[key] = value
-
     dictlist.append(keydict)
 
 
@@ -165,17 +160,24 @@ full_dictlist = dictlist
 # Keep only articles in the list
 #dictlist = [d for d in dictlist if d['type'] == 'article']
 # keep only articles that have author and title
+print(len(dictlist))
 dictlist = [d for d in dictlist if 'author' in d and 'title' in d]
+print(len(dictlist))
 dictlist = [d for d in dictlist if d['author'] != '' and d['title'] != '']
+print(len(dictlist))
 
 
 # Get a list of the article years and the min and max values
+# something is wrong here, not finding all the years
 years = [int(d['year']) for d in dictlist if 'year' in d]
+years.append(2016)
 years.sort()
 older = years[0]
 newer = years[-1]
+print(years)
+print(len(years))
 
-
+print(len(dictlist))
 ###########################################################################
 # Set the fields to be exported to html (following this order)
 mandatory = ['author', 'title']
@@ -197,7 +199,6 @@ for y in reversed(range(older, newer + 1)):
             if 'year' in d and int(d['year']) == y:
                 mandata = [d[key] for key in mandatory]
                 html += '<li>{0}, <i>{1}</i>'.format(*mandata)
-
                 for t in optional:
                     if t in d:
                         if t == 'journal': html += ', {0}'.format(d[t])
@@ -217,7 +218,6 @@ for y in reversed(range(older, newer + 1)):
                 html += '</li>\n'
                 counter += 1
         html += '</ul>\n'
-
 
 # Fill up the empty fields in the template
 a, mark, b = template.partition('<!--LIST_OF_REFERENCES-->')
