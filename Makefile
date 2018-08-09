@@ -78,11 +78,11 @@ regenerate:
 
 serve:
 ifdef PORT	
-	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000  & 
+	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000/index.html  & 
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 	echo cd $(OUTPUTDIR) && echo $(PY) -m pelican.server $(PORT)
 else
-	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000  & 
+	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000/index.html  & 
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 	echo cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
