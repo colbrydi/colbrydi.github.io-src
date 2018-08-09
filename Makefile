@@ -62,10 +62,12 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
 
-html:
+bib:
 	cd bibtex2html && grep -v -e "month =" colbrydi.bib > colbrydi2.bib
 	cd bibtex2html && mv colbrydi2.bib colbrydi.bib
-	cd bibtex2html && python bibtex2html.py colbrydi.bib template.html ../content/Pages/02_publications.html 
+	cd bibtex2html && python bibtex2html.py colbrydi.bib template.html ../content/Pages/02_publications.html
+
+html: bib
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	echo $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
@@ -77,12 +79,12 @@ regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
-ifdef PORT	
-	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000/index.html  & 
+ifdef PORT
+	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000/index.html  &
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 	echo cd $(OUTPUTDIR) && echo $(PY) -m pelican.server $(PORT)
 else
-	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000/index.html  & 
+	cd $(OUTPUTDIR) && sleep 2 && open http://localhost:8000/index.html  &
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 	echo cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
