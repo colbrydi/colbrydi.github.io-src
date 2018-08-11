@@ -138,7 +138,7 @@ for s in biblist:
             continue
         i += 1
     keylist = [t.strip(' ,\t\n') for t in keylist]
-    print("keylist",keylist)
+    #print("keylist",keylist)
     listlist.append(keylist)
 
 # Create a list of dicts containing key : value of each bibitem
@@ -160,11 +160,11 @@ full_dictlist = dictlist
 # Keep only articles in the list
 #dictlist = [d for d in dictlist if d['type'] == 'article']
 # keep only articles that have author and title
-print(len(dictlist))
+#print(len(dictlist))
 dictlist = [d for d in dictlist if 'author' in d and 'title' in d]
-print(len(dictlist))
+#print(len(dictlist))
 dictlist = [d for d in dictlist if d['author'] != '' and d['title'] != '']
-print(len(dictlist))
+#print(len(dictlist))
 
 
 # Get a list of the article years and the min and max values
@@ -174,10 +174,10 @@ years.append(2016)
 years.sort()
 older = years[0]
 newer = years[-1]
-print(years)
-print(len(years))
+#print(years)
+#print(len(years))
 
-print(len(dictlist))
+#print(len(dictlist))
 ###########################################################################
 # Set the fields to be exported to html (following this order)
 mandatory = ['author', 'title']

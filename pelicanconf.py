@@ -9,8 +9,9 @@ SITEURL = "."
 PATH = 'content'
 INDEX_SAVE_AS = 'Blog.html' 
 
-#PLUGIN_PATHS=["./plugins"]
-#PLUGINS=['ipynb.markup']
+IPYNB_USE_METACELL = True
+PLUGIN_PATHS=["./plugins"]
+PLUGINS=['ipynb.markup']
 MARKUP = { 'md', 'ipynb', 'html'}
 
 # Following items are often useful when publishinu
