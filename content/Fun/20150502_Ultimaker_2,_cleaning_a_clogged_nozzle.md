@@ -10,16 +10,10 @@ sure the real root of the problem this time.  In any case, I found using the
 MostlyAtomicBob who described the method for the first time in the following
 post:
 
-  
 
-http://umforum.ultimaker.com/index.php?/topic/3561-ultimaker-2-extruder-
-nozzle-blocked/#entry28940
-
-  
+http://umforum.ultimaker.com/index.php?/topic/3561-ultimaker-2-extruder-nozzle-blocked/#entry28940
 
 Here is a summary of the steps that I used:
-
-  
 
 1) Remove the boden tube from the printer head
 
@@ -35,29 +29,20 @@ a little soft.
 
 6) Repeat steps 2-5 until I get completely clean filament
 
-  
+
 
 You can see the result of my cleaning in the picture below. The pieces are a
 little backward and ordered from right to left.  Note the really dark char
 slowly going away and the pieces getting longer as they nest better and better
 in the print head.
 
-  
-
-  
-
-[![](./images/IMG_2048.jpg)](./images/IMG_2048.jpg)
-
-  
+![./images/IMG_2048.jpg](../images/IMG_2048.jpg)
 
 Here is the same procedure when it clogged a second time. This time I
 remembered to order them from left to right.  
 
-  
+![./images/blogger-image-193838586.jpg](../images/blogger-image-193838586.jpg)
 
-[![](./images/blogger-image-193838586.jpg)](../images/blogger-image-193838586.jpg)
-
-  
 \- Dirk
 
 Blogpost migrated from [Blogger](https://apprenticemaker.blogspot.com/2014/12/ultimaker-2-cleaning-clogged-nozzle.html) using costom python script. Comment on errors below.

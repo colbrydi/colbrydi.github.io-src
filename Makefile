@@ -68,7 +68,7 @@ bib:
 	cd bibtex2html && python bibtex2html.py colbrydi.bib template.html ../content/Pages/02_publications.html
 
 html: bib
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) -v $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	echo $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:

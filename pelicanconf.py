@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 AUTHOR = "Dr. Dirk Colbry"
 SITENAME = "Dirk's Home Page"
-#SITEURL = "//colbrydi.github.io"
 SITEURL = "."
 PATH = 'content'
 INDEX_SAVE_AS = 'Blog.html' 
@@ -12,6 +11,8 @@ INDEX_SAVE_AS = 'Blog.html'
 IPYNB_USE_METACELL = True
 PLUGIN_PATHS=["./plugins"]
 PLUGINS=['ipynb.markup']
+IGNORE_FILES = ['.*']
+
 MARKUP = { 'md', 'ipynb', 'html'}
 
 # Following items are often useful when publishinu
@@ -42,7 +43,7 @@ LINKS = (('CyberAmbassadors', '//colbrydi.github.io/cyberambassadors/'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = True 
 
 # Comment following line if you want the default theme
 THEME = 'themes/tuxlite2'

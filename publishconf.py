@@ -11,13 +11,13 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 #SITEURL = ''
-SITEURL = '//colbrydi.github.io/'
-RELATIVE_URLS = False
+SITEURL = 'https://colbrydi.github.io/'
+RELATIVE_URLS = True 
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
-DELETE_OUTPUT_DIRECTORY = True
+#DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishinu
 DISQUS_SITENAME = "DirkColbry"
