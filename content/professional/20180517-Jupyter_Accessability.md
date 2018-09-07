@@ -1,4 +1,4 @@
-Title: Jupyter Accessability Project
+Title: Jupyter Accessibility Project
 Date: 2018-05-17
 Tags: Jupyter, Accessibility
 

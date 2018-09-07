@@ -1,6 +1,8 @@
 Title: Teaching
 
-For Fall 2018 I plan to hold office hours on Monday/Wednesdays from 1-3pm in room 1516 Engineering Building
+For Fall 2018 my office hours start on September 3rd.  Time and locations are as follows (or by appointment), and start on September 3:
+
+ - Mondays, 9:00-11:00 a.m. - [1516 Engineering Building](https://cmse.msu.edu/about/directions/)
 
 I am currently developing curriculum and will be teaching the flowing courses:
 

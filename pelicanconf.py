@@ -6,7 +6,7 @@ AUTHOR = "Dr. Dirk Colbry"
 SITENAME = "Dirk's Home Page"
 SITEURL = "."
 PATH = 'content'
-INDEX_SAVE_AS = 'Blog.html' 
+INDEX_SAVE_AS = 'Blog.html'
 
 IPYNB_USE_METACELL = True
 PLUGIN_PATHS=["./plugins"]
@@ -43,12 +43,12 @@ LINKS = (('CyberAmbassadors', '//colbrydi.github.io/cyberambassadors/'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True 
+RELATIVE_URLS = True
 
 # Comment following line if you want the default theme
 THEME = 'themes/tuxlite2'
 
-DISPLAY_PAGES_ON_MENU = False 
+DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = True
 
 #INDEX_SAVE_AS = 'about.html'
@@ -56,4 +56,4 @@ DISPLAY_CATEGORIES_ON_MENU = True
 #PAGE_URL = 'about2.html'
 
 # Provides menu items, which come before pages / categories
-MENUITEMS = [('Blog','/Blog.html'), ('Publications', '/pages/publications.html'), ('Contact', '/pages/contact.html')]
+MENUITEMS = [('Teaching','/teaching.html'),('Blog','/Blog.html'), ('Publications', '/pages/publications.html'), ('Contact', '/pages/contact.html')]
