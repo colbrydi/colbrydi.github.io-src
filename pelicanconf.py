@@ -56,4 +56,4 @@ DISPLAY_CATEGORIES_ON_MENU = True
 #PAGE_URL = 'about2.html'
 
 # Provides menu items, which come before pages / categories
-MENUITEMS = [('Teaching','/teaching.html'),('Blog','/Blog.html'), ('Publications', '/pages/publications.html'), ('Contact', '/pages/contact.html')]
+MENUITEMS = [('Teaching','/pages/teaching.html'),('Blog','/Blog.html'), ('Publications', '/pages/publications.html'), ('Contact', '/pages/contact.html')]
