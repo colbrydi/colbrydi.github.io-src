@@ -13,8 +13,8 @@ I am currently developing curriculum and will be teaching the flowing courses:
 
 ### Spring 2019
 
-- CMSE401 - Methods in Parallel Programming
-- CMSE890 - Communications skills for
+- CMSE401 - [Methods in Parallel Programming](/images/CMSE401_S19.pdf)
+- CMSE890 - Communications, Teamwork, Ethics and Leadership training for Multidisciplinary Research Teams
 
 ----
 
