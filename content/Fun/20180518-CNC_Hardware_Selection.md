@@ -8,7 +8,7 @@ I am interested in purchasing a CNC machine for the shop space in our new house.
 - Small detailed work - I also have a few small projects that require detail.  I realize it will be difficult to have a machine that does both big and small.
 - Open source hardware (I just like these projects) - Something I can easily modify with a rich user community.
 
-During my inicial search I came accross the following systems and communities.
+During my initial search I came across the following systems and communities.
 
 [Sienci](//sienci.com/product/sienci-mill-one-kit/)
 [DiyLilcnc](//diylilcnc.org/bigshoulders/)

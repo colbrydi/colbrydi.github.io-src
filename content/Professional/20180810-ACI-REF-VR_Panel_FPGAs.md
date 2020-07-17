@@ -2,7 +2,7 @@ Title: Emerging Technologies (FPGAs) @ 2018 ACI-REF VR
 Date: 2018-08-10
 Tags: Presentations, HPC
 
-![Picture from Panel](https://scontent.fdet1-1.fna.fbcdn.net/v/t1.0-9/38848724_2237070319912537_861379777389395968_n.jpg?_nc_cat=0&oh=1a154f108c6825a27c966101f933801d&oe=5BF4733A){ width=20%, align=right, hspace=10}
+![Picture from Panel](//colbrydi.github.io/images/Emerging_Technologies.jpg){ width=20%, align=right, hspace=10}
 
 Today is the last day of the [2018 ACI-REF Virtual residency](http://www.oscer.ou.edu/acirefvirtres2018.php) workshop here in Norman Ok.  It was a great week with a lot of great people.  I highly recommend the workshop for anyone in the area of Advanced Computing Instruction especially those do some Research and Education Facilitation in their roles.  
 

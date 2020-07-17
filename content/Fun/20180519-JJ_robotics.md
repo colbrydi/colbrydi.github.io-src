@@ -1,6 +1,8 @@
 Title: JJRobotics
 Date: 2018-05-19
-Tags: Maker, Product Reviews
+Tags: Maker, Product Reviews, JJRobots
+
+![JJRobotics Logo](https://www.jjrobots.com/wp-content/uploads/2018/10/jjrobots-logo-500x242.png){ width=200, align=right, hspace=10}
 
 A great purchase for anyone with a 3D printer and looking for projects With the kids.
 

@@ -6,7 +6,7 @@ I got a tripod for my birthday this year.  It is a really nice one, but I lost
 the quick release mount.  Here is a picture with a quick release mount from
 another tripod. Obviously, it doesn't fit:  
 
-![./images/Tripod.jpg](../images/Tripod.jpg)
+![./images/Tripod.jpg](../images/Tripod.jpg){ width=200, align=right, hspace=10}
 
 
 After some shopping online this one looks fairly good, but possibly not the
@@ -18,7 +18,7 @@ right size.
 
 So, I took some measurements and came up with this drawing  
 
-![./images/quickreleasemount.jpg](../images/quickreleasemount.jpg)
+![./images/quickreleasemount.jpg](../images/quickreleasemount.jpg){ width=200, align=right, hspace=10}
 
 
 My goal is to see if I can print this out using a 3D printer. When I started
@@ -34,8 +34,8 @@ take long to figure out the simple language.  I started by making a cube and
 then creating the top.  Then I made objects to cut out the inside and the
 bevels.  Here is the resulting model.  
 
-![./images/QuickRelease.png](../images/QuickRelease.png)
-![./images/QuickRelease2.png](../images/QuickRelease2.png)
+![./images/QuickRelease.png](../images/QuickRelease.png){ width=200, align=right, hspace=10}
+![./images/QuickRelease2.png](../images/QuickRelease2.png){ width=200, align=right, hspace=10}
 
 
 
@@ -48,7 +48,7 @@ to my tolerances and I could not get it to fit inside the tripod.  However,
 with some simple modifications to the openscad file I was able to generate a
 quick release mount that I think looks quite nice and works well:  
 
-![./images/blogger-image-138421032.jpg](../images/blogger-image-138421032.jpg)
+![./images/blogger-image-138421032.jpg](../images/blogger-image-138421032.jpg){ width=200, align=right, hspace=10}
 
 
 

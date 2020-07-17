@@ -2,6 +2,9 @@ Title: Gears with logos
 Date: 2014-06-22
 Tags: Maker, 3DPrinting
 
+![./images/blogger-image--1703746521.jpg](../images/blogger-image--1703746521.jpg){ width=200, align=right, hspace=10}
+
+
 The theme for the kids VBS (Vacation Bible School) this year is "Workshop of
 Wonders" by [Cokesbury](http://2014.cokesburyvbs.com/).  I participate every
 year with my kids but was extremely enthusiastic that the theme this year was
@@ -26,8 +29,6 @@ can be used to make gears that fit into Lego technics. I have a ton of lego
 technics and I really liked the idea that the motivated students to integrate
 their gear with their own legos.  
 
-![./images/blogger-image--1703746521.jpg](../images/blogger-image--1703746521.jpg)
-
 
 
 After some iteration, I ultimately ended up doing is importing the images into
@@ -36,8 +37,8 @@ instructions I found on a couple of website. Here is an example image I loaded
 into Inkscape  
 
 
-![./images/icer.png](../images/icer.png)
-![./images/example-dfx-gear.png](../images/example-dfx-gear.png)
+![./images/icer.png](../images/icer.png){ width=200, align=right, hspace=10}
+![./images/example-dfx-gear.png](../images/example-dfx-gear.png){ width=200, align=right, hspace=10}
 
 
 

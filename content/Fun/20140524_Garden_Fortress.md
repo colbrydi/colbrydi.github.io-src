@@ -2,10 +2,10 @@ Title: Garden Fortress
 Date: 2014-05-24
 Tags: Maker, 3DPrinting
 
+![./images/blogger-image--276711787.jpg](../images/blogger-image--276711787.jpg){ width=200, align=right, hspace=10}
+
 I love the idea of gardening. Specifically vegetable gardens where we can
-grow, harvest and eat some of our food.  I've had a few gardens before, but in
-our current house it is difficult to have one because our beautiful four
-legged neighbors (deer) like to snack in our yard.  
+grow, harvest and eat some of our food.  I've had a few gardens before, but in our current house it is difficult to have one because our beautiful four legged neighbors (deer) like to snack in our yard.  
 
 
 I got this idea from a community garden just down the road.  They used an old
@@ -19,8 +19,6 @@ access and the back can be easily removed also by lifting it off the screws I
 use as hooks.  
 
 
-
-![./images/blogger-image--276711787.jpg](../images/blogger-image--276711787.jpg)
 
 Here are a few pictures of my kids and me making the garden.  
 
@@ -54,4 +52,4 @@ Send me pics if you make your own.
 
 \- Dirk
 
-Blogpost migrated from [Blogger](https://apprenticemaker.blogspot.com/2014/05/garden-fortress.html) using costom python script. Comment on errors below.
+Blogpost migrated from [Blogger](https://apprenticemaker.blogspot.com/2014/05/garden-fortress.html) using custom python script. Comment on errors below.

@@ -5,7 +5,9 @@ Tags: Maker, 3DPrinting
 A few weeks ago we caravanned a group of family and friends down to the Ann
 Arbor Mini Maker Faire.  
 
-![./images/aammf2014v1_rfs.jpg](../images/aammf2014v1_rfs.jpg). It was everything I had
+![./images/aammf2014v1_rfs.jpg](../images/aammf2014v1_rfs.jpg){ width=200, align=right, hspace=10}
+
+It was everything I had
 hoped: there were plenty of robots, 3d manufacturing devices and other things
 to touch and play with.  My oldest daughter (with help from her papa) even got
 to do her first soldering using one of the "learn to solder badges" from the

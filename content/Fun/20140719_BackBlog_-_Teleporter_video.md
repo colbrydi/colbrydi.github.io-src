@@ -5,12 +5,12 @@ Tags: Maker
 We through a Star Trek themed surprise party for my wife and I thought it
 would be fun to see if I could make a transporter effect.  
 
-![./images/small_DSC_0858.JPG](../images/small_DSC_0858.JPG)
+![./images/small_DSC_0858.JPG](../images/small_DSC_0858.JPG){ width=200, align=right, hspace=10}
 
 To start we took two pictures, one with everyone in an away team formation and
 one with just the background  
 
-![./images/small_DSC_0859.JPG](../images/small_DSC_0859.JPG)
+![./images/small_DSC_0859.JPG](../images/small_DSC_0859.JPG){ width=200, align=right, hspace=10}
 
 
 I then wrote a simple program to add the two images together using a weighted
@@ -27,7 +27,7 @@ there was very little white. I ended up with the following (I guess I could
 also have just select the white and set everything else to black).  
 
 
-![./images/small_flag.JPG](../images/small_flag.JPG)
+![./images/small_flag.JPG](../images/small_flag.JPG){ width=200, align=right, hspace=10}
 
 Now, potting All the components together and looping from 0 to 100 I was able
 to create a directory of images that I wanted and stitched the images together

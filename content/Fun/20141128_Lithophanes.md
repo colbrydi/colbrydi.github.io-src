@@ -2,6 +2,8 @@ Title: Lithophanes
 Date: 2014-11-28
 Tags: Maker, 3DPrinting
 
+![Snowflake](../images/il_570xN.688476899_eapl.jpg){ width=200, align=right, hspace=10}
+
 I saw my first 3D printer when I was visiting the University of Notre Dame.
 It was over 10 years ago, it was fairly expensive to operate and it printed in
 a kind of expensive wax.  
@@ -20,8 +22,6 @@ http://www.thingiverse.com/thing:74322
 I tried a few but nothing excited me so I just wrote one myself.   I am very
 pleased with the results:  
 
-
-![./images/il_570xN.666710307_cq47.jpg](../images/il_570xN.666710307_cq47.jpg)
 
 
 If you just want a lithophane, we added them to my wife's etsy store:  

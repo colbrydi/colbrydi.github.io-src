@@ -2,6 +2,9 @@ Title: Ultimaker 2, cleaning a clogged nozzle
 Date: 2015-05-02
 Tags: Maker, 3DPrinting
 
+
+![./images/IMG_2048.jpg](../images/IMG_2048.jpg){ width=200, align=right, hspace=10}
+
 So my Ultimaker2 extruding head got clogged, really bad.  Something got jammed
 while printing and I could not get the filament to feed.  This had happened
 once in the past when I tried using some really cheap filament but I am not
@@ -36,12 +39,11 @@ little backward and ordered from right to left.  Note the really dark char
 slowly going away and the pieces getting longer as they nest better and better
 in the print head.
 
-![./images/IMG_2048.jpg](../images/IMG_2048.jpg)
 
 Here is the same procedure when it clogged a second time. This time I
 remembered to order them from left to right.  
 
-![./images/blogger-image-193838586.jpg](../images/blogger-image-193838586.jpg)
+![./images/blogger-image-193838586.jpg](../images/blogger-image-193838586.jpg){ width=200, align=right, hspace=10}
 
 \- Dirk
 

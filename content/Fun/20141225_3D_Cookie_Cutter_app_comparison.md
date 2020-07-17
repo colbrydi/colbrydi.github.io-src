@@ -23,7 +23,7 @@ project because you can scan and upload hand drawings into the editor and
 trace them.  The downside is that this editor only does a cookie outline and
 not the insides. Here is an example we did:  
 
-![./images/CookieCaster_screen.tiff](../images/CookieCaster_screen.tiff)
+![./images/CookieCaster_screen.tiff](../images/CookieCaster_screen.tiff){ width=200, align=right, hspace=10}
 
 
  **Cookie Cutter Editor:** <http://www.local-guru.net/blog/pages/cookiecutter-editor>  

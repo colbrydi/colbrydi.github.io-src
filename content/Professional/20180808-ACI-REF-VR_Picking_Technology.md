@@ -8,8 +8,8 @@ I had fun leading a discussion on **Deciding Which Technologies to Adopt, and Wh
 
 See a video of the discussion here:
 
-[Coming soon]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HR1_OZnKqn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you are interested, you can find a copy of my slides can be found here:
 
-[PDF of Slides](http://www.oscer.ou.edu/acirefvirtres2018_talk_techadoption_colbry_20180808.pdfZ)
+[PDF of Slides](http://www.oscer.ou.edu/acirefvirtres2018_talk_techadoption_colbry_20180808.pdf)
