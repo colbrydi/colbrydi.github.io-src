@@ -32,8 +32,9 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('CyberAmbassadors', '//colbrydi.github.io/cyberambassadors/'),
+         ('SEE-Insight', '//see-insight.github.io/'),
          ('Pelican / Github.io Tutorial', '//colbrydi.github.io/msupelican/'),
-	 ('CMSE', '//cmse.msu.edu'),
+         ('CMSE', '//cmse.msu.edu'),
          ('MSU', '//www.msu.edu/'))
 
 # Social widget
