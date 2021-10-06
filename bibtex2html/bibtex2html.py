@@ -124,7 +124,7 @@ for s in biblist:
     number = 0
     flag = 0
     i = 0
-    while len(s) > 0:
+    while i < len(s):
         if s[i] == '{':
             number += 1
             flag = 1

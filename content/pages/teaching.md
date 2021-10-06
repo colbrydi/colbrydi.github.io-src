@@ -4,6 +4,7 @@ I am currently developing curriculum and will be teaching the flowing courses:
 
 ### Fall 2021
 - UGS101 - [Learning in the Digital Age: Academic, Personal, and Professional Considerations!](http://cmse.msu.edu/ugs101)
+- CMSE890 - Communications, Teamwork, Ethics and Leadership training for Multidisciplinary Research Teams
 
 ### Spring 2021
 
