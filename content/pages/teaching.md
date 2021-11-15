@@ -2,25 +2,27 @@ Title: Teaching
 
 I am currently developing curriculum and will be teaching the flowing courses:
 
+### Spring 2022
+- CMSE495 - [Data Science Capstone](https://msu-cmse-courses.github.io/cmse495-SS22/)
+
 ### Fall 2021
-- UGS101 - [Learning in the Digital Age: Academic, Personal, and Professional Considerations!](http://cmse.msu.edu/ugs101)
+- UGS101 - [Learning in the Digital Age: Academic, Personal, and Professional Considerations!](https://msu-cmse-courses.github.io/UGS101-f21-student/)
 - CMSE890 - Communications, Teamwork, Ethics and Leadership training for Multidisciplinary Research Teams
 
-### Spring 2021
 
-- CMSE495 - Data Science Capstone
+---
 
 ## Previous Courses
 
 ### Spring 2021
-- MTH314 - [(Course Coordinator) Numerical Linear Algebra](http://cmse.msu.edu/mth314)
-- CMSE401 - [Methods in Parallel Programming](http://cmse.msu.edu/cmse401)
+- MTH314 - [(Course Coordinator) Numerical Linear Algebra](https://msu-cmse-courses.github.io/mth314-s21-student/)
+- CMSE401 - [Methods in Parallel Programming](https://msu-cmse-courses.github.io/cmse401-S21-student/)
 
 
 ### Fall 2020
-- CMSE802 - [Methods in Computational Modeling](http://cmse.msu.edu/cmse802)
+- CMSE802 - [Methods in Computational Modeling](https://msu-cmse-courses.github.io/cmse802-f20-student/)
 - MTH314 - [(Course Coordinator) Numerical Linear Algebra](https://msu-cmse-courses.github.io/mth314-F20-student/)
-- UGS101-730 - [Learning in the Digital Age: Academic, Personal, and Professional Considerations!](http://cmse.msu.edu/ugs101)
+- UGS101-730 - [Learning in the Digital Age: Academic, Personal, and Professional Considerations!](https://msu-cmse-courses.github.io/UGS101-730-F20-student/)
 
 
 ### Spring 2020

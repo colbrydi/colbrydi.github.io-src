@@ -20,8 +20,13 @@ Today I figured out how to change the default OBS image that appears when the so
 1. Create a 1920x1080 image (Not sure if this exact size is required but I matched the size I found). Name this file ```placeholder.png```
 2. Copy and replace the image in the corresponding```/Application/OBS.app``` folder and the ```obs-mac-virtualcam.plugin``` folder.  I assume that only the second one is required but I went ahead and copied both. here are the exact commands (note the second one requires root privliges)
 
-    ```cp placeholder.png /Applications/OBS.app/Contents/Resources/data/obs-mac-virtualcam.plugin/Contents/Resources/placeholder.png```
+    ```cp placeholder.png /Applications/OBS.app/Contents/Resources//data/obs-plugins/mac-virtualcam/obs-mac-virtualcam.plugin/Contents/Resources/placeholder.png```
     
     ```sudo cp placeholder.png /Library/CoreMediaIO/Plug-Ins/DAL/obs-mac-virtualcam.plugin/Contents/Resources```
     
 That should be it! The new image started working for me right away.  I haven't done much else checking to see if I could use a different size image and/or if I needed to coy both files.  
+
+
+### Edited Oct 6, 2021 
+Recent update to OBS changed the wrokign path and overwrite my placeholder file. I updated the path in the first command from ```/Applications/OBS.app/Contents/Resources/data/obs-mac-virtualcam.plugin/Contents/Resources/placeholder.png``` to 
+```/Applications/OBS.app/Contents/Resources//data/obs-plugins/mac-virtualcam/obs-mac-virtualcam.plugin/Contents/Resources/placeholder.png```.  Again, I am not sure if this copy is required. 
