@@ -41,7 +41,7 @@ I am currently developing curriculum and will be teaching the flowing courses:
 
 ### Fall 2018
 - CMSE314 - [Numerical Linear Algebra](/images/CMSE314_Fall18.pdf)
-- CMSE890 - [Algorithms for Advanced Architectures](/images/CMSE890-005_Fall18.pdf)
+- CMSE890 - [Algorithms for Advanced Architectures](/images/CMSE890-005_Fall18.pdf) - [Class Wiki](https://www.egr.msu.edu/nextgen/wik)
 
 ### Spring 2018
 - CMSE890 - [Scientific Image Analysis](/images/CMSE890-001_Spring18.pdf)
@@ -54,4 +54,3 @@ I am currently developing curriculum and will be teaching the flowing courses:
 
 ### Fall 2016
 - CMSE202 - Tools for Computational Modeling
-- CMSE890 - Multicore systems (aka GPGPUs)
